@@ -1,9 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 
 # Bitcoin Ticker 🤑
 
-## Our Goal
+## Goal
 
 The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
 
@@ -12,7 +12,8 @@ The objective of this tutorial is to learn about using Cupertino and Material Wi
 
 We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![ezgif-5-10405e0c72](https://user-images.githubusercontent.com/102911455/163719070-324752b8-3da3-40f4-83d9-48c4ef57eac6.gif)
+
 
 ## What you will learn
 
